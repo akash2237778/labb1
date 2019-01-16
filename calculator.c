@@ -19,3 +19,23 @@ A.divide(op1,op2);
 A.substract(op1,op2);
 A.multiply(op1,op2);
 }
+int add(op1,op2)
+{
+cout<<"add"<<endl;
+cout<<(op1+op2)<<endl;
+}
+int divide(op1,op2)
+{
+cout<<"divide"<<endl;
+cout<<(op1/op2)<<endl;
+}
+int substract(op1,op2)
+{
+cout<<"substract"<<endl;
+cout<<(op1-op2)<<endl;
+}
+int multiply(op1,op2)
+{
+cout<<"multiply"<<endl;
+cout<<(op1*op2)<<endl;
+}
